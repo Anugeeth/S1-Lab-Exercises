@@ -18,5 +18,6 @@ case 6: printf("Saturday");
 	break;
 case 7: printf("Sunday");
 	break;
+default: printf("Invalid input\n");
 }
 }
